@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		95CBC63028F344040063FB9B /* Challenge___Unit_ConversionApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95CBC62F28F344040063FB9B /* Challenge___Unit_ConversionApp.swift */; };
+		95CBC63028F344040063FB9B /* Unit_ConversionApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95CBC62F28F344040063FB9B /* Unit_ConversionApp.swift */; };
 		95CBC63228F344040063FB9B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95CBC63128F344040063FB9B /* ContentView.swift */; };
 		95CBC63428F344050063FB9B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 95CBC63328F344050063FB9B /* Assets.xcassets */; };
 		95CBC63728F344050063FB9B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 95CBC63628F344050063FB9B /* Preview Assets.xcassets */; };
@@ -15,7 +15,7 @@
 
 /* Begin PBXFileReference section */
 		95CBC62C28F344030063FB9B /* Challenge - Unit Conversion.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Challenge - Unit Conversion.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		95CBC62F28F344040063FB9B /* Challenge___Unit_ConversionApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Challenge___Unit_ConversionApp.swift"; sourceTree = "<group>"; };
+		95CBC62F28F344040063FB9B /* Unit_ConversionApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Unit_ConversionApp.swift; sourceTree = "<group>"; };
 		95CBC63128F344040063FB9B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		95CBC63328F344050063FB9B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		95CBC63628F344050063FB9B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -51,7 +51,7 @@
 		95CBC62E28F344030063FB9B /* Challenge - Unit Conversion */ = {
 			isa = PBXGroup;
 			children = (
-				95CBC62F28F344040063FB9B /* Challenge___Unit_ConversionApp.swift */,
+				95CBC62F28F344040063FB9B /* Unit_ConversionApp.swift */,
 				95CBC63128F344040063FB9B /* ContentView.swift */,
 				95CBC63328F344050063FB9B /* Assets.xcassets */,
 				95CBC63528F344050063FB9B /* Preview Content */,
@@ -138,7 +138,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				95CBC63228F344040063FB9B /* ContentView.swift in Sources */,
-				95CBC63028F344040063FB9B /* Challenge___Unit_ConversionApp.swift in Sources */,
+				95CBC63028F344040063FB9B /* Unit_ConversionApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
